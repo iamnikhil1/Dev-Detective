@@ -24,7 +24,7 @@ const twitter = get("twitter");
 const company = get("company");
 let darkMode = false;
 
-getUserData(url+"yyppsk")
+getUserData(url+"iamnikhil1")
 
 btnsubmit.addEventListener('click',() =>{
     if(input.value!==""){
